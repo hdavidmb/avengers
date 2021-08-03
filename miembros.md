@@ -18,4 +18,3 @@
 * Vision
 * Wasp
 * Antman
-* Eternals
