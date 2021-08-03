@@ -19,3 +19,4 @@
 * Wasp
 * Antman
 * War Machine
+* Winter Soldier
